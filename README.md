@@ -1,1 +1,1 @@
-# HTML.CSS-LpgpType
+# HTML.CSS-LogoType
